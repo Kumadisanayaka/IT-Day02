@@ -1,0 +1,178 @@
+#main-tag{
+    font-size: 65px;
+    color: #ff0000;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+#main-logo{
+    width: 100px;
+    height: auto;
+    margin: 20px;
+    padding: 0px;
+    border: 6px solid #ff0000;
+    border-height: 5px solid #ff0000;
+
+}
+
+#welcome-section{
+    background-color: #ff0000;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.description{
+    font-size: 20px;
+    color: #333333;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+#our-menu{
+    background-color: #ff0000;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+#menu-item{
+    font-size: 25px;
+    color: #333333;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+#item-description{
+    font-size: 18px;
+    color: #333333;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+/*#item-picture{
+    width: 350px;
+    height: 450px;
+    margin: 20px;
+    padding: 5px;
+    border: 6px solid #ff0000;
+    border-height: 5px solid #ff0000;
+    align-items: center;
+
+}*/
+
+#item-picture{
+    width: 350px;
+    height: 450px;
+    margin: 20px;
+    padding: 5px;
+    border: 6px solid #ff0000;
+    border-height: 5px solid #ff0000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#item-price{
+    font-size: 22px;
+    color: #333333;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+#our-location{
+    background-color: #ff0000;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+#our-location iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid #ff0000;
+    border-height: 5px solid #ff0000;
+
+}
+
+#contact-us{
+    background-color: #ff0000;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.contact-info{
+    font-size: 18px;
+    color: #333333;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+#contact-us .contact-info{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#primary-footer{
+    background-color: #333333;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+body{
+    background-image: url(../image/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
